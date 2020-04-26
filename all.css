@@ -2,5 +2,8 @@ body{
     color: #000;
 }
 h1{
-    color: blue;
+    color: rgb(255, 0, 13);
+}
+h2{
+    color: rgb(157, 255, 0);
 }
